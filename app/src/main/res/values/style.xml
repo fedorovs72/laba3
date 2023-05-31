@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle" parent="@android:style/Widget.Button">
+        <item name="colorPrimary">#939393</item>
+        <item name="android:background">@color/purple_200</item>
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+    <style name="ButtonStyle2" parent="@android:style/Widget.Button">
+        <item name="colorPrimary">#F8A72F</item>
+        <item name="android:background">@color/purple_200</item>
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+    <style name="ButtonStyle3" parent="@android:style/Widget.Button">
+        <item name="colorPrimary">#373737</item>
+        <item name="android:background">@color/purple_200</item>
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+</resources>
